@@ -1,0 +1,21 @@
+.header-content{
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+.img-round{
+    border-radius:50%;
+}
+
+.nav-link:hover{
+    border-bottom: 1px white solid;
+    padding:2px;
+}
+
+@media screen {
+    .header-content{
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+}

@@ -1,0 +1,15 @@
+.payment {
+    margin: 20px auto;
+    background-color: rgb(53, 100, 53);
+    color: #fff;
+    padding: 20px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+.payment-h4 {
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
