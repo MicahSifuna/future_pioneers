@@ -1,5 +1,8 @@
 import React from 'react';
+
 import '././styles/CardMain.css';
+import '././styles/cards.css';
+
 import queen from "./../Assets/queen.jpg";
 import oscar from "./../Assets/oscar.jpg";
 
